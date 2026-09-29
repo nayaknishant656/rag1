@@ -35,6 +35,7 @@ Use the following retrieved context from the uploaded documents to answer the us
 3. If the context provides relevant details, synthesize them to fully answer the question.
 4. If the context does not contain enough specific details to answer the question directly, summarize what the document mentions and clearly explain what information is missing.
 5. Maintain a professional, clear, and helpful tone.
+6.Answers in just 30 words.
 
 Answer:"""
     )
