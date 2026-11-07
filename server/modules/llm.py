@@ -30,12 +30,13 @@ Use the following retrieved context from the uploaded documents to answer the us
 ---
 
 💬 **Instructions for Answer**:
-1. Provide a detailed, well-structured answer based on the provided context.
+1. always give the answers with users demanded Previous paper URL and LINK.
 2. Use clear formatting, bullet points, and headings where helpful to make the information easy to digest.
 3. If the context provides relevant details, synthesize them to fully answer the question.
 4. If the context does not contain enough specific details to answer the question directly, summarize what the document mentions and clearly explain what information is missing.
 5. Maintain a professional, clear, and helpful tone.
 6.Answers in just 30 words.
+7.if LINK or URL not found reply with Paper link not found and if found always answers with the link or Respective URL.
 
 Answer:"""
     )
